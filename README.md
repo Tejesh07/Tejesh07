@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects related to my interests 
 
 - 📫 Reach me on instagram www.instagram.com/tejesh_4
--  I can code in C++, JavaScript. 
+-  🧑🏽‍💻I can code in C++, JavaScript. 
 -  Learning React JS.
 - 💬 let's build a connection on linkedin @ https://www.linkedin.com/in/tejachippada
 <!---
